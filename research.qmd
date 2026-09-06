@@ -1,0 +1,7 @@
+---
+title: "Research"
+description: "Research by Laurenz Marstaller"
+---
+
+Research papers and current work will be added here.
+

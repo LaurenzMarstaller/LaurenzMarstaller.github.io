@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Laurenz Marstaller"
+  site-url: "https://laurenzmar.github.io"
+  description: "Academic website of Laurenz Marstaller"
+  navbar:
+    pinned: true
+    left:
+      - text: About
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: CV
+        href: cv.qmd
+    right:
+      - icon: github
+        href: "https://github.com/LaurenzMar"
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Laurenz Marstaller"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+
+lang: en
+
