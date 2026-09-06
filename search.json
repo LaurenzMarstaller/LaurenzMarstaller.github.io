@@ -7,6 +7,20 @@
     "text": "A curriculum vitae will be added here."
   },
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research papers and current work will be added here."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications will be added here."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Laurenz Marstaller",
@@ -35,13 +49,6 @@
     "text": "Teaching\nCourses, lecture materials, and resources will be added here.\nTeaching →"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Research papers and current work will be added here."
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -54,12 +61,5 @@
     "title": "Projects",
     "section": "",
     "text": "Selected projects will be added here."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Publications will be added here."
   }
 ]
