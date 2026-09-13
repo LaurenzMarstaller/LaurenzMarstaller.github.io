@@ -11,7 +11,21 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Research papers and current work will be added here."
+    "text": "My research is in industrial organization and microeconomic theory. I study platforms, consumer search, pricing, regulation, and auctions.\n\n\n\n\n\n\nWorking paper\n\nECONtribute Discussion Paper No. 430\nSeptember 2026\n\n\n\n\nPlatforms · Recommendations · Regulation\n\nPDF\nAbstract. This paper studies how platforms jointly choose fees and recommendations and their implications for fee regulation. A platform charges sellers a commission rate and ranks products based on price and match-value. The analysis shows that price-sensitive rankings intensify seller competition, allowing the platform to extract more surplus. Commission-rate caps constrain fees, but platforms may respond by making recommendations less price-sensitive, attenuating consumer-surplus gains. By contrast, capped nominal fees can be more effective because they shift the platform’s incentives toward transaction volume rather than transaction value. Effective fee regulation must therefore account for how platforms adjust their recommendation policies in response.\n\n\n\n\n\nWorking paper\n\nECONtribute Discussion Paper No. 387\nJanuary 2026\n\n\n\n\nConsumer search · Privacy · Price discrimination\n\nPDF\nAbstract. Heterogeneous search costs enable price discrimination, which I study in the canonical Wolinsky (1986) sequential search setting. Firms observe a public signal of a consumer’s search cost before posting a personalized price. The welfare effects of search-cost-based price discrimination depend on the distribution of search costs. For sufficiently small search costs, all consumers participate, and price discrimination reduces consumer surplus. When search costs are sufficiently dispersed, price discrimination reduces participation; its effect on consumer surplus is ambiguous and decomposed into three forces. This decomposition guides optimal information design: the consumer-surplus-maximizing policy is a binary signal that separates low- and high-search-cost consumers.\n\n\n\n\n\n\n\n\n\n\nOngoing project\n\nStructural estimation · Auctions"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Working paper\n\nECONtribute Discussion Paper No. 430\nSeptember 2026\n\n\n\n\nPlatforms · Recommendations · Regulation\n\nPDF\nAbstract. This paper studies how platforms jointly choose fees and recommendations and their implications for fee regulation. A platform charges sellers a commission rate and ranks products based on price and match-value. The analysis shows that price-sensitive rankings intensify seller competition, allowing the platform to extract more surplus. Commission-rate caps constrain fees, but platforms may respond by making recommendations less price-sensitive, attenuating consumer-surplus gains. By contrast, capped nominal fees can be more effective because they shift the platform’s incentives toward transaction volume rather than transaction value. Effective fee regulation must therefore account for how platforms adjust their recommendation policies in response.\n\n\n\n\n\nWorking paper\n\nECONtribute Discussion Paper No. 387\nJanuary 2026\n\n\n\n\nConsumer search · Privacy · Price discrimination\n\nPDF\nAbstract. Heterogeneous search costs enable price discrimination, which I study in the canonical Wolinsky (1986) sequential search setting. Firms observe a public signal of a consumer’s search cost before posting a personalized price. The welfare effects of search-cost-based price discrimination depend on the distribution of search costs. For sufficiently small search costs, all consumers participate, and price discrimination reduces consumer surplus. When search costs are sufficiently dispersed, price discrimination reduces participation; its effect on consumer surplus is ambiguous and decomposed into three forces. This decomposition guides optimal information design: the consumer-surplus-maximizing policy is a binary signal that separates low- and high-search-cost consumers."
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "",
+    "text": "Ongoing project\n\nStructural estimation · Auctions"
   },
   {
     "objectID": "publications.html",
@@ -25,28 +39,28 @@
     "href": "index.html",
     "title": "Laurenz Marstaller",
     "section": "",
-    "text": "ECONOMICS · RESEARCH · TEACHING\n\n\n\nWelcome. This website brings together my academic work, research projects, and teaching materials.\nExplore research View teaching"
+    "text": "PHD CANDIDATE IN ECONOMICS · UNIVERSITY OF BONN\n\n\n\nMy research is in industrial organization and microeconomic theory, with a focus on platforms, consumer search, pricing, regulation, and auctions.\nResearch Email"
   },
   {
     "objectID": "index.html#research",
     "href": "index.html#research",
     "title": "Laurenz Marstaller",
     "section": "Research",
-    "text": "Research\nWorking papers and current research will be added here.\nResearch →"
+    "text": "Research\nWorking papers and ongoing projects."
   },
   {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
+    "objectID": "index.html#working-papers",
+    "href": "index.html#working-papers",
     "title": "Laurenz Marstaller",
-    "section": "Projects",
-    "text": "Projects\nSelected academic and applied projects will be added here.\nProjects →"
+    "section": "Working Papers",
+    "text": "Working Papers\n\n\n\n\nWorking paper\n\nECONtribute Discussion Paper No. 430\nSeptember 2026\n\n\nRecommendation Design, Pricing, and Regulation\n\nPlatforms · Recommendations · Regulation\n\nPDF\nAbstract. This paper studies how platforms jointly choose fees and recommendations and their implications for fee regulation. A platform charges sellers a commission rate and ranks products based on price and match-value. The analysis shows that price-sensitive rankings intensify seller competition, allowing the platform to extract more surplus. Commission-rate caps constrain fees, but platforms may respond by making recommendations less price-sensitive, attenuating consumer-surplus gains. By contrast, capped nominal fees can be more effective because they shift the platform’s incentives toward transaction volume rather than transaction value. Effective fee regulation must therefore account for how platforms adjust their recommendation policies in response.\n\n\n\n\n\nWorking paper\n\nECONtribute Discussion Paper No. 387\nJanuary 2026\n\n\nPrivacy in Search Markets\n\nConsumer search · Privacy · Price discrimination\n\nPDF\nAbstract. Heterogeneous search costs enable price discrimination, which I study in the canonical Wolinsky (1986) sequential search setting. Firms observe a public signal of a consumer’s search cost before posting a personalized price. The welfare effects of search-cost-based price discrimination depend on the distribution of search costs. For sufficiently small search costs, all consumers participate, and price discrimination reduces consumer surplus. When search costs are sufficiently dispersed, price discrimination reduces participation; its effect on consumer surplus is ambiguous and decomposed into three forces. This decomposition guides optimal information design: the consumer-surplus-maximizing policy is a binary signal that separates low- and high-search-cost consumers."
   },
   {
-    "objectID": "index.html#teaching",
-    "href": "index.html#teaching",
+    "objectID": "index.html#work-in-progress",
+    "href": "index.html#work-in-progress",
     "title": "Laurenz Marstaller",
-    "section": "Teaching",
-    "text": "Teaching\nCourses, lecture materials, and resources will be added here.\nTeaching →"
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\n\n\n\nOngoing project\n\nStructural estimation · Auctions\n\n\nStructural Estimation of Asymmetric IPV First-Price Auctions with Winner-Only Bid Data\n\n\n\nView the research page →"
   },
   {
     "objectID": "teaching.html",
