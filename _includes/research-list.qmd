@@ -1,0 +1,67 @@
+## Working Papers
+
+::: {.paper-list}
+::: {.paper-card}
+::: {.paper-meta}
+::: {.paper-type}
+Working paper
+:::
+
+ECONtribute Discussion Paper No. 430  
+September 2026
+:::
+
+::: {.paper-body}
+### Recommendation Design, Pricing, and Regulation
+
+::: {.paper-topics}
+Platforms · Recommendations · Regulation
+:::
+
+[PDF](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_430_2026.pdf){.paper-link}
+
+**Abstract.** This paper studies how platforms jointly choose fees and recommendations and their implications for fee regulation. A platform charges sellers a commission rate and ranks products based on price and match-value. The analysis shows that price-sensitive rankings intensify seller competition, allowing the platform to extract more surplus. Commission-rate caps constrain fees, but platforms may respond by making recommendations less price-sensitive, attenuating consumer-surplus gains. By contrast, capped nominal fees can be more effective because they shift the platform's incentives toward transaction volume rather than transaction value. Effective fee regulation must therefore account for how platforms adjust their recommendation policies in response.
+:::
+:::
+
+::: {.paper-card}
+::: {.paper-meta}
+::: {.paper-type}
+Working paper
+:::
+
+ECONtribute Discussion Paper No. 387  
+January 2026
+:::
+
+::: {.paper-body}
+### Privacy in Search Markets
+
+::: {.paper-topics}
+Consumer search · Privacy · Price discrimination
+:::
+
+[PDF](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_387_2026.pdf){.paper-link}
+
+**Abstract.** Heterogeneous search costs enable price discrimination, which I study in the canonical Wolinsky (1986) sequential search setting. Firms observe a public signal of a consumer's search cost before posting a personalized price. The welfare effects of search-cost-based price discrimination depend on the distribution of search costs. For sufficiently small search costs, all consumers participate, and price discrimination reduces consumer surplus. When search costs are sufficiently dispersed, price discrimination reduces participation; its effect on consumer surplus is ambiguous and decomposed into three forces. This decomposition guides optimal information design: the consumer-surplus-maximizing policy is a binary signal that separates low- and high-search-cost consumers.
+:::
+:::
+:::
+
+## Work in Progress
+
+::: {.paper-list}
+::: {.paper-card .paper-card-compact}
+::: {.paper-meta}
+::: {.paper-type}
+Ongoing project
+:::
+
+Structural estimation · Auctions
+:::
+
+::: {.paper-body}
+### Structural Estimation of Asymmetric IPV First-Price Auctions with Winner-Only Bid Data
+:::
+:::
+:::
