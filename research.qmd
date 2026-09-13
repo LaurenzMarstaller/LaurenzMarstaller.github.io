@@ -5,7 +5,7 @@ page-layout: full
 ---
 
 ::: {.research-page}
-My research is in industrial organization and microeconomic theory. I study platforms, consumer search, pricing, regulation, and auctions.
+I am interested in industrial organization and microeconomic theory, particularly the economics of digital markets, platforms, and consumer search.
 
 {{< include _includes/research-list.qmd >}}
 :::

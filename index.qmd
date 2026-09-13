@@ -12,7 +12,7 @@ PHD CANDIDATE IN ECONOMICS · UNIVERSITY OF BONN
 
 # Laurenz Marstaller
 
-My research is in industrial organization and microeconomic theory, with a focus on platforms, consumer search, pricing, regulation, and auctions.
+I am interested in industrial organization and microeconomic theory, particularly the economics of digital markets, platforms, and consumer search.
 
 [Research](research.qmd){.btn .btn-primary} [Email](mailto:laurenz.marstaller@uni-bonn.de){.btn .btn-outline-primary}
 :::
