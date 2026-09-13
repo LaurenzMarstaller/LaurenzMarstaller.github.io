@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Laurenz Marstaller"
-  site-url: "https://laurenzmar.github.io"
+  site-url: "https://laurenzmarstaller.github.io"
   description: "Academic website of Laurenz Marstaller"
   navbar:
     pinned: true
@@ -23,7 +23,7 @@ website:
         href: cv.qmd
     right:
       - icon: github
-        href: "https://github.com/LaurenzMar"
+        href: "https://github.com/LaurenzMarstaller"
         aria-label: GitHub
   page-footer:
     left: "© 2026 Laurenz Marstaller"
@@ -39,4 +39,3 @@ format:
     link-external-newwindow: true
 
 lang: en
-

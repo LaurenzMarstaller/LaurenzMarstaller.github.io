@@ -1,4 +1,4 @@
-# LaurenzMar.github.io
+# LaurenzMarstaller.github.io
 
 Source for the academic website of Laurenz Marstaller, built with Quarto and published through GitHub Pages.
 
