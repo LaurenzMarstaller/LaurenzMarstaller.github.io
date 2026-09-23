@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - google7c2ff48951dc9272.html
 
 website:
   title: "Laurenz Marstaller"
