@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "I am interested in industrial organization and microeconomic theory, particularly the economics of digital markets, platforms, and consumer search.\n\n\n\n\n\n\nWorking paper\n\nECONtribute Discussion Paper No. 430\nSeptember 2026\n\n\n\n\nPlatforms · Recommendations · Regulation\n\nPDF\nAbstract. This paper studies how platforms jointly choose fees and recommendations and their implications for fee regulation. A platform charges sellers a commission rate and ranks products based on price and match-value. The analysis shows that price-sensitive rankings intensify seller competition, allowing the platform to extract more surplus. Commission-rate caps constrain fees, but platforms may respond by making recommendations less price-sensitive, attenuating consumer-surplus gains. By contrast, capped nominal fees can be more effective because they shift the platform’s incentives toward transaction volume rather than transaction value. Effective fee regulation must therefore account for how platforms adjust their recommendation policies in response.\n\n\n\n\n\nWorking paper\n\nECONtribute Discussion Paper No. 387\nJanuary 2026\n\n\n\n\nConsumer search · Privacy · Price discrimination\n\nPDF\nAbstract. Heterogeneous search costs enable price discrimination, which I study in the canonical Wolinsky (1986) sequential search setting. Firms observe a public signal of a consumer’s search cost before posting a personalized price. The welfare effects of search-cost-based price discrimination depend on the distribution of search costs. For sufficiently small search costs, all consumers participate, and price discrimination reduces consumer surplus. When search costs are sufficiently dispersed, price discrimination reduces participation; its effect on consumer surplus is ambiguous and decomposed into three forces. This decomposition guides optimal information design: the consumer-surplus-maximizing policy is a binary signal that separates low- and high-search-cost consumers.\n\n\n\n\n\n\n\n\n\n\nOngoing project\n\nStructural estimation · Auctions"
+    "text": "A curriculum vitae will be added here."
   },
   {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Working paper\n\nECONtribute Discussion Paper No. 430\nSeptember 2026\n\n\n\n\nPlatforms · Recommendations · Regulation\n\nPDF\nAbstract. This paper studies how platforms jointly choose fees and recommendations and their implications for fee regulation. A platform charges sellers a commission rate and ranks products based on price and match-value. The analysis shows that price-sensitive rankings intensify seller competition, allowing the platform to extract more surplus. Commission-rate caps constrain fees, but platforms may respond by making recommendations less price-sensitive, attenuating consumer-surplus gains. By contrast, capped nominal fees can be more effective because they shift the platform’s incentives toward transaction volume rather than transaction value. Effective fee regulation must therefore account for how platforms adjust their recommendation policies in response.\n\n\n\n\n\nWorking paper\n\nECONtribute Discussion Paper No. 387\nJanuary 2026\n\n\n\n\nConsumer search · Privacy · Price discrimination\n\nPDF\nAbstract. Heterogeneous search costs enable price discrimination, which I study in the canonical Wolinsky (1986) sequential search setting. Firms observe a public signal of a consumer’s search cost before posting a personalized price. The welfare effects of search-cost-based price discrimination depend on the distribution of search costs. For sufficiently small search costs, all consumers participate, and price discrimination reduces consumer surplus. When search costs are sufficiently dispersed, price discrimination reduces participation; its effect on consumer surplus is ambiguous and decomposed into three forces. This decomposition guides optimal information design: the consumer-surplus-maximizing policy is a binary signal that separates low- and high-search-cost consumers."
+    "text": "Selected projects will be added here."
   },
   {
-    "objectID": "research.html#work-in-progress",
-    "href": "research.html#work-in-progress",
-    "title": "Research",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Ongoing project\n\nStructural estimation · Auctions"
+    "text": "Courses and teaching materials will be added here."
   },
   {
     "objectID": "index.html",
@@ -49,31 +49,73 @@
     "text": "Work in Progress\n\n\n\n\nOngoing project\n\nStructural estimation · Auctions\n\n\nStructural Estimation of Asymmetric IPV First-Price Auctions with Winner-Only Bid Data\n\n\n\nView the research page →"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "A curriculum vitae will be added here."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Courses and teaching materials will be added here."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Selected projects will be added here."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
     "text": "Publications will be added here."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I am interested in industrial organization and microeconomic theory, particularly the economics of digital markets, platforms, and consumer search.\n\n\n\n\n\n\nWorking paper\n\nECONtribute Discussion Paper No. 430\nSeptember 2026\n\n\n\n\nPlatforms · Recommendations · Regulation\n\nPDF\nAbstract. This paper studies how platforms jointly choose fees and recommendations and their implications for fee regulation. A platform charges sellers a commission rate and ranks products based on price and match-value. The analysis shows that price-sensitive rankings intensify seller competition, allowing the platform to extract more surplus. Commission-rate caps constrain fees, but platforms may respond by making recommendations less price-sensitive, attenuating consumer-surplus gains. By contrast, capped nominal fees can be more effective because they shift the platform’s incentives toward transaction volume rather than transaction value. Effective fee regulation must therefore account for how platforms adjust their recommendation policies in response.\n\n\n\n\n\nWorking paper\n\nECONtribute Discussion Paper No. 387\nJanuary 2026\n\n\n\n\nConsumer search · Privacy · Price discrimination\n\nPDF\nAbstract. Heterogeneous search costs enable price discrimination, which I study in the canonical Wolinsky (1986) sequential search setting. Firms observe a public signal of a consumer’s search cost before posting a personalized price. The welfare effects of search-cost-based price discrimination depend on the distribution of search costs. For sufficiently small search costs, all consumers participate, and price discrimination reduces consumer surplus. When search costs are sufficiently dispersed, price discrimination reduces participation; its effect on consumer surplus is ambiguous and decomposed into three forces. This decomposition guides optimal information design: the consumer-surplus-maximizing policy is a binary signal that separates low- and high-search-cost consumers.\n\n\n\n\n\n\n\n\n\n\nOngoing project\n\nStructural estimation · Auctions"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Working paper\n\nECONtribute Discussion Paper No. 430\nSeptember 2026\n\n\n\n\nPlatforms · Recommendations · Regulation\n\nPDF\nAbstract. This paper studies how platforms jointly choose fees and recommendations and their implications for fee regulation. A platform charges sellers a commission rate and ranks products based on price and match-value. The analysis shows that price-sensitive rankings intensify seller competition, allowing the platform to extract more surplus. Commission-rate caps constrain fees, but platforms may respond by making recommendations less price-sensitive, attenuating consumer-surplus gains. By contrast, capped nominal fees can be more effective because they shift the platform’s incentives toward transaction volume rather than transaction value. Effective fee regulation must therefore account for how platforms adjust their recommendation policies in response.\n\n\n\n\n\nWorking paper\n\nECONtribute Discussion Paper No. 387\nJanuary 2026\n\n\n\n\nConsumer search · Privacy · Price discrimination\n\nPDF\nAbstract. Heterogeneous search costs enable price discrimination, which I study in the canonical Wolinsky (1986) sequential search setting. Firms observe a public signal of a consumer’s search cost before posting a personalized price. The welfare effects of search-cost-based price discrimination depend on the distribution of search costs. For sufficiently small search costs, all consumers participate, and price discrimination reduces consumer surplus. When search costs are sufficiently dispersed, price discrimination reduces participation; its effect on consumer surplus is ambiguous and decomposed into three forces. This decomposition guides optimal information design: the consumer-surplus-maximizing policy is a binary signal that separates low- and high-search-cost consumers."
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "",
+    "text": "Ongoing project\n\nStructural estimation · Auctions"
+  },
+  {
+    "objectID": "legal.html",
+    "href": "legal.html",
+    "title": "Impressum",
+    "section": "",
+    "text": "Information pursuant to § 5 DDG and § 18 MStV\nLaurenz Marstaller\nUniversity of Bonn\nDepartment of Economics\nAdenauerallee 22–24\n53113 Bonn\nGermany\nEmail: laurenz.marstaller@uni-bonn.de\nThis is a personal academic website and not an official website of the University of Bonn.\n\n\n\n\n\nLaurenz Marstaller\nUniversity of Bonn, Department of Economics\nAdenauerallee 22–24, 53113 Bonn, Germany\nEmail: laurenz.marstaller@uni-bonn.de\n\n\n\nThis website is hosted through GitHub Pages, a service provided by GitHub. When the website is accessed, GitHub may process technical information such as the visitor’s IP address, the requested page, date and time of access, referring page, and browser or device information. GitHub states that visitors’ IP addresses are logged and stored for security purposes.\nThe purpose of this processing is to provide the website securely and reliably. To the extent that I am responsible for this processing, the legal basis is Article 6(1)(f) GDPR. The legitimate interest is the secure and stable operation of this website. GitHub may process data in the United States and other countries. Further information is available in the GitHub Privacy Statement.\n\n\n\nIf you contact me by email, I process the information you provide in order to respond to your enquiry. The legal basis is Article 6(1)(f) GDPR or, where the communication concerns a prospective contractual relationship, Article 6(1)(b) GDPR. The information is deleted when it is no longer required, unless a legal obligation requires longer retention.\n\n\n\nThis website does not use analytics, advertising, profiling, or non-essential cookies. Local browser storage may be used only for functions requested by the visitor, such as website preferences or search.\n\n\n\nSubject to the applicable legal requirements, you have rights of access, rectification, erasure, restriction of processing, data portability, and objection. You may also lodge a complaint with a data-protection supervisory authority. The competent authority in North Rhine-Westphalia is the State Commissioner for Data Protection and Freedom of Information NRW.\nLast updated: 23 September 2026."
+  },
+  {
+    "objectID": "legal.html#controller",
+    "href": "legal.html#controller",
+    "title": "Impressum",
+    "section": "",
+    "text": "Laurenz Marstaller\nUniversity of Bonn, Department of Economics\nAdenauerallee 22–24, 53113 Bonn, Germany\nEmail: laurenz.marstaller@uni-bonn.de"
+  },
+  {
+    "objectID": "legal.html#hosting",
+    "href": "legal.html#hosting",
+    "title": "Impressum",
+    "section": "",
+    "text": "This website is hosted through GitHub Pages, a service provided by GitHub. When the website is accessed, GitHub may process technical information such as the visitor’s IP address, the requested page, date and time of access, referring page, and browser or device information. GitHub states that visitors’ IP addresses are logged and stored for security purposes.\nThe purpose of this processing is to provide the website securely and reliably. To the extent that I am responsible for this processing, the legal basis is Article 6(1)(f) GDPR. The legitimate interest is the secure and stable operation of this website. GitHub may process data in the United States and other countries. Further information is available in the GitHub Privacy Statement."
+  },
+  {
+    "objectID": "legal.html#email-contact",
+    "href": "legal.html#email-contact",
+    "title": "Impressum",
+    "section": "",
+    "text": "If you contact me by email, I process the information you provide in order to respond to your enquiry. The legal basis is Article 6(1)(f) GDPR or, where the communication concerns a prospective contractual relationship, Article 6(1)(b) GDPR. The information is deleted when it is no longer required, unless a legal obligation requires longer retention."
+  },
+  {
+    "objectID": "legal.html#cookies-and-analytics",
+    "href": "legal.html#cookies-and-analytics",
+    "title": "Impressum",
+    "section": "",
+    "text": "This website does not use analytics, advertising, profiling, or non-essential cookies. Local browser storage may be used only for functions requested by the visitor, such as website preferences or search."
+  },
+  {
+    "objectID": "legal.html#your-rights",
+    "href": "legal.html#your-rights",
+    "title": "Impressum",
+    "section": "",
+    "text": "Subject to the applicable legal requirements, you have rights of access, rectification, erasure, restriction of processing, data portability, and objection. You may also lodge a complaint with a data-protection supervisory authority. The competent authority in North Rhine-Westphalia is the State Commissioner for Data Protection and Freedom of Information NRW.\nLast updated: 23 September 2026."
   }
 ]
