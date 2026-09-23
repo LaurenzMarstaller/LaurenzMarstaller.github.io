@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://laurenzmarstaller.github.io/research.html</loc>
-    <lastmod>2026-09-23T11:01:13.239Z</lastmod>
-  </url>
-  <url>
-    <loc>https://laurenzmarstaller.github.io/index.html</loc>
-    <lastmod>2026-09-23T11:01:13.239Z</lastmod>
-  </url>
-  <url>
     <loc>https://laurenzmarstaller.github.io/cv.html</loc>
-    <lastmod>2026-09-23T11:01:13.239Z</lastmod>
+    <lastmod>2026-09-23T11:05:58.503Z</lastmod>
   </url>
   <url>
-    <loc>https://laurenzmarstaller.github.io/teaching.html</loc>
-    <lastmod>2026-09-23T11:01:13.239Z</lastmod>
-  </url>
-  <url>
-    <loc>https://laurenzmarstaller.github.io/projects.html</loc>
-    <lastmod>2026-09-23T11:01:13.239Z</lastmod>
+    <loc>https://laurenzmarstaller.github.io/research.html</loc>
+    <lastmod>2026-09-23T11:05:58.503Z</lastmod>
   </url>
   <url>
     <loc>https://laurenzmarstaller.github.io/publications.html</loc>
-    <lastmod>2026-09-23T11:01:13.239Z</lastmod>
+    <lastmod>2026-09-23T11:05:58.503Z</lastmod>
+  </url>
+  <url>
+    <loc>https://laurenzmarstaller.github.io/index.html</loc>
+    <lastmod>2026-09-23T11:05:58.503Z</lastmod>
+  </url>
+  <url>
+    <loc>https://laurenzmarstaller.github.io/teaching.html</loc>
+    <lastmod>2026-09-23T11:05:58.503Z</lastmod>
+  </url>
+  <url>
+    <loc>https://laurenzmarstaller.github.io/projects.html</loc>
+    <lastmod>2026-09-23T11:05:58.503Z</lastmod>
   </url>
 </urlset>
