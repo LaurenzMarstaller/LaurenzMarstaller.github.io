@@ -16,6 +16,9 @@ website:
       - text: Research
         href: research.qmd
     right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/laurenz-marstaller/"
+        aria-label: LinkedIn
       - icon: github
         href: "https://github.com/LaurenzMarstaller"
         aria-label: GitHub

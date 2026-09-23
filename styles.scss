@@ -87,6 +87,17 @@ a {
   white-space: nowrap;
 }
 
+.hero-kicker a {
+  color: inherit;
+  text-decoration-color: color-mix(in srgb, currentColor 40%, transparent);
+  text-decoration-thickness: 1px;
+}
+
+.hero-kicker a:hover,
+.hero-kicker a:focus {
+  color: var(--ink);
+}
+
 .academic-hero > section {
   grid-column: 1;
 }

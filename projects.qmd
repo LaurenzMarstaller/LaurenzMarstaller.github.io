@@ -1,7 +1,0 @@
----
-title: "Projects"
-description: "Projects by Laurenz Marstaller"
----
-
-Selected projects will be added here.
-
