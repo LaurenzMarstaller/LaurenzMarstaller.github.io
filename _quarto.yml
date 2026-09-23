@@ -26,6 +26,9 @@ format:
     theme:
       - cosmo
       - styles.scss
+    include-in-header:
+      - text: |
+          <meta name="google-site-verification" content="4iy7IMMv_2DfoBxsHywKnWP12nTfnTWvlPHQ3gkgEbc">
     toc: false
     smooth-scroll: true
     link-external-newwindow: true
