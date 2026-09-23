@@ -325,6 +325,53 @@ main.content {
   font-size: 0.8rem;
 }
 
+.nav-footer a {
+  color: inherit;
+  text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  text-underline-offset: 0.18em;
+}
+
+.legal-page {
+  width: min(100% - (2 * var(--page-pad)), 50rem);
+  margin: 0 auto;
+  padding: 5rem 0 7rem;
+}
+
+.legal-page > h1 {
+  margin: 0 0 1.75rem;
+  padding-top: 2.5rem;
+  border-top: 1px solid var(--ink);
+  color: var(--ink);
+  font-size: clamp(2.5rem, 5vw, 4.8rem);
+  font-weight: 600;
+  letter-spacing: -0.055em;
+}
+
+.legal-page > h1:first-child {
+  padding-top: 0;
+  border-top: 0;
+}
+
+.legal-page > h1:not(:first-child) {
+  margin-top: 5rem;
+}
+
+.legal-page h2 {
+  margin-top: 2.4rem;
+  color: var(--ink);
+  font-size: 0.78rem;
+  font-weight: 650;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.legal-page p {
+  max-width: 46rem;
+  color: var(--muted);
+  font-size: 0.94rem;
+  line-height: 1.72;
+}
+
 @media (max-width: 960px) {
   .academic-hero,
   .section-heading {

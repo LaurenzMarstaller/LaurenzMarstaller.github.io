@@ -21,7 +21,7 @@ website:
         aria-label: GitHub
   page-footer:
     left: "© 2026 Laurenz Marstaller"
-    right: "Built with Quarto"
+    right: "[Impressum](legal.qmd#impressum) · [Privacy](legal.qmd#privacy)"
 
 format:
   html:
